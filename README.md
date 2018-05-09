@@ -20,30 +20,12 @@ Include any other screenshots you deem necessary to help someone who has never b
 Because screenshots (and well-written READMEs) are extremely important in the context of GitHub, this will be part of the grading.
 
 
-If you haven't written a markdown file yet, click here for a rundown, or just take a look at the raw file of these instructions.
 
-
-File Structure
-
-├── Bamazon-Customer
-|  ├── bamazonCustomer.js
-|  ├── package.json
-|  └── schema.sql
-├── Bamazon-Manager
-|  ├── bamazonManager.js
-|  ├── package.json
-|  └── schema.sql
-└── Bamazon-Supervisor
-   ├── bamazonCustomer.js
-   ├── bamazonManager.js
-   ├── bamazonSupervisor.js
-   ├── package.json
-   └── schema.sql
 
 Instructions
 
 
-Challenge #1: Customer View (Minimum Requirement)
+Challenge #1: Customer View 
 
 
 Create a MySQL Database called bamazon.
