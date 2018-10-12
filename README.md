@@ -1,4 +1,4 @@
-# bamazon
+# Storefront
 
 Node.js & MySQL
 
